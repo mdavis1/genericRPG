@@ -11,7 +11,8 @@ public class Input {
   }
 
     /**
-  Returns the first character of text inoput by the user using a Scanner object.  Will return either "up", "down", "left", "right", or "invalid".  Will likely use standard awsd movement.
+  Returns the first character of text input by the user using a Scanner object.  Will return either "up", "down", "left", "right", or "invalid".  
+  Will likely use standard awsd movement.
   */
   public static String getMovement() {
     return"";
